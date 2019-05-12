@@ -1,0 +1,7 @@
+<html>
+<body>
+<h2>My Zoo</h2>
+<p id="monkeys"></p>
+<script src="script.js"></script>
+</body>
+</html>
