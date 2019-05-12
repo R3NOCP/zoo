@@ -1,7 +1,11 @@
 <html>
 <body>
 <h2>My Zoo</h2>
+<h3>Monkeys</h3>
 <p id="monkeys"></p>
+
+<h3>Lions</h3>
+<p id="lions"></p>
 <script src="script.js"></script>
 </body>
 </html>
